@@ -1,0 +1,7 @@
+If you prefer gitosis, please refer to: [[setting-up-git-server-using-gitosis]] and [[managing-repositories-on-git-server-using-gitosis]]. The gitosis proves quit stable from my experience, although it does not have as many features as gitolite.
+
+In this post how to set up a basic git server and a more complex one (the git server is a server inside of a local area network) will be introduced.
+
+A basic git server through SSH tutorial
+Table of Contents	
+A basic git server through SSH tutorial
