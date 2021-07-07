@@ -1,0 +1,4 @@
+domain	Domain name to use for the self-generated certificate	simplehttpserver -domain projectdiscovery.io
+basic-auth	Basic auth (username:password)	simplehttpserver -basic-auth user:password
+realm	Basic auth message	simplehttpserver -realm "insert the credentials"
+version	Show version	simplehttpserver -version
